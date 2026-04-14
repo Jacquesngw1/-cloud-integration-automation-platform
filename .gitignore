@@ -1,0 +1,32 @@
+# Python byte-code
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# pytest cache
+.pytest_cache/
+
+# MyPy
+.mypy_cache/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Environment files
+.env
+*.env
+
+# OS artefacts
+.DS_Store
+Thumbs.db
